@@ -1,5 +1,5 @@
 [package]
-name = "gcd"
+name = "Greatest_Common_Denominator"
 version = "0.1.0"
 edition = "2021"
 
